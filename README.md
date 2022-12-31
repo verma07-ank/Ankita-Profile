@@ -1,5 +1,5 @@
 - **Hello 👋 World ,I'm ANKITA!**
-- I’m self drivan and passionate coder who loves to solve problem and develop user friendly application.
+- I’m self driven and passionate coder who loves to solve problem and develop user friendly application.
 - Teaching myself to write code that helps me in building strong analytical skills.
 - 👀 I am currently working with Java, Spring Boot.
 - Playing with APIs that are easy enough to interact with the user and software.
